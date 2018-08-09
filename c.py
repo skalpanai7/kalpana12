@@ -4,6 +4,6 @@ if num > 1:
 		if (num % i) == 0:
 			print("no")
 			break
-		else:
-			print("yes")
+	else:
+		print("yes")
 	
